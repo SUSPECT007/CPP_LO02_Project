@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1669024829 source:c:\users\dell\desktop\codeblocks\a\card.cpp
+	"Card.h"
+
+1669024455 c:\users\dell\desktop\codeblocks\a\card.h
+	<vector>
+	"Enums.h"
+	"Player.h"
+
+1669000435 c:\users\dell\desktop\codeblocks\a\enums.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<cctype>
+	<stdio.h>
+	<functional>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	<windows.h>
+
+1669034380 c:\users\dell\desktop\codeblocks\a\player.h
+	"Card.h"
+	"Game.h"
+
+1669031870 c:\users\dell\desktop\codeblocks\a\game.h
+	"Card.h"
+	"Function.h"
+
+1668830269 c:\users\dell\desktop\codeblocks\a\function.h
+	"Player.h"
+	"Card.h"
+	<vector>
+	"Game.h"
+
+1668833037 source:c:\users\dell\desktop\codeblocks\a\function.cpp
+	"Function.h"
+
+1669032589 source:c:\users\dell\desktop\codeblocks\a\main.cpp
+	<iostream>
+	"Game.h"
+
+1669032316 source:c:\users\dell\desktop\codeblocks\a\player.cpp
+	"Player.h"
+
+1669035023 source:c:\users\dell\desktop\codeblocks\a\game.cpp
+	"Game.h"
+
